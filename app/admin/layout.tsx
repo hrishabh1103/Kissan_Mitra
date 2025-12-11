@@ -1,4 +1,4 @@
-import Link from 'next/link' 
+import Link from 'next/link'  
 import { getCurrentUser } from '@/lib/auth'
 import { redirect } from 'next/navigation'
 import { LayoutDashboard, Users, LogOut } from 'lucide-react'
