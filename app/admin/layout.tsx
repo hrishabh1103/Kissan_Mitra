@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { getCurrentUser } from '@/lib/auth'
 import { redirect } from 'next/navigation'
 import { LayoutDashboard, Users, LogOut } from 'lucide-react'
-import LogoutButton from '@/components/LogoutButton'
+import LogoutButton from '@/components/LogoutButton' 
 
 export default async function AdminLayout({
     children,
