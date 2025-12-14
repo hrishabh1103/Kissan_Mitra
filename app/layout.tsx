@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   title: "KisanMitra - Eco-Friendly Stubble Management",
   description: "Connecting farmers with machine owners to eliminate stubble burning.",
 };
+// how to do this over here the chatgpt way
 
 export default function RootLayout({
   children,
