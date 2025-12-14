@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import { Toaster } from "sonner";
 import "./globals.css";
-
+// add a update soon
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
